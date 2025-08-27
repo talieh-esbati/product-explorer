@@ -5,7 +5,7 @@ A modern web app built with **React.js + Vite**, **JavaScript**, **Material UI**
 
 ## Features
 
-- **Searchable**: All two columns (Products, Selected Products) support live search.
+- **Searchable**: All two columns (Products, Favourite Products) support live search.
 - **Select Products**: Clicking on a product adds it to the favourite Products column.
 - **Remove Products**: Clicking on a trash icon on selected product column removes it from the selection.
 - **Infinite Scroll**: Initially displays 10 products, and loads more on scroll with InfiniteScroll react component.

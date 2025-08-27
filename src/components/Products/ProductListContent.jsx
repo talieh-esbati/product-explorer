@@ -30,7 +30,7 @@ export default function ProductListContent({
   if (!products || products.length === 0) {
     return (
       <Typography variant="body2" color="text.secondary">
-        No selected product found.
+        No favourite product found.
       </Typography>
     );
   }
